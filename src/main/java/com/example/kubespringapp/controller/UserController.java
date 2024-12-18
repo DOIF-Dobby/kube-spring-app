@@ -16,7 +16,8 @@ public class UserController {
                 new User("Alice", 30),
                 new User("Bob", 40),
                 new User("Charlie", 50),
-                new User("MJ", 32)
+                new User("MJ", 32),
+                new User("KMJ", 33)
         );
     }
 
